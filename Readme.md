@@ -12,7 +12,7 @@ srapy crawl products
 1. **Clone** the repository
 2. Create and activate **virtual environment**
 3. Install **dependencies** 
-```pip -r ```
+```pip install -r requirements.txt ```
 4. Create PostgreSQL DB.
 5. Start the spider.
 
